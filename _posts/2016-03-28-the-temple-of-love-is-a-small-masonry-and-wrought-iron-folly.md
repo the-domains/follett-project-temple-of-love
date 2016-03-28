@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The Temple of Love is a small masonry and wrought iron folly at the far end of a pond at Old Westbury Gardens, located in Suffolk County, NY on Long Island.'
-datePublished: '2016-03-28T14:48:43.004Z'
-dateModified: '2016-03-28T14:47:38.136Z'
+datePublished: '2016-03-28T14:52:11.395Z'
+dateModified: '2016-03-28T14:51:01.134Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-28-the-temple-of-love-is-a-small-masonry-and-wrought-iron-folly.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-28-the-temple-of-love-is-a-small-masonry-and-wrought-iron-folly.md
-published: true
 url: the-temple-of-love-is-a-small-masonry-and-wrought-iron-folly/index.html
 _type: Article
 
@@ -32,7 +32,6 @@ The scope was to clean (D/2 biological solution), and to repair in such a manner
 
 It was a very pleasant natural environment to work in not far from the heart of NYC.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d75a8ae8-555e-4797-b889-4d40dca3c4a8.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b88214a-bf21-42db-aeea-dac10330d303.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5cdf010-c48e-4b53-bc33-fb72eb5387eb.jpg)
 
 We did not remove any of the graffiti.
